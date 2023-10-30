@@ -1,0 +1,2 @@
+# postwp
+PostWP CLI application
